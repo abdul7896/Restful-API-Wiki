@@ -1,7 +1,19 @@
-In order to demonstrate the entire CRUD functionality in JavaScript, we will complete the following steps:
+In order to create a new record you should be using “POST” If you are trying to read a record, you should be use “GET”  To update a record utilizing “PUT” or “PATCH” And to delete a record, using “DELETE”
+MongoDB has been used to store the collections, CRUD operation can be performed to the Schema which contains title and content.
 
+Tools Utilised
+Node.js
+MongoDB
+Postman
+
+Here are some examples 
+GET
 ![alt GET](https://github.com/abdul7896/Restful-API-Wiki/blob/master/Get.PNG)
+PATCH
 ![alt PATCH](https://github.com/abdul7896/Restful-API-Wiki/blob/master/Patch.PNG)
+POST
 ![alt POST](https://github.com/abdul7896/Restful-API-Wiki/blob/master/Post.PNG)
+PUT
 ![alt PUT](https://github.com/abdul7896/Restful-API-Wiki/blob/master/Put.PNG)
+DELETE
 ![alt DELETE](https://github.com/abdul7896/Restful-API-Wiki/blob/master/Delete.PNG)
